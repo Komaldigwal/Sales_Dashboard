@@ -19,15 +19,14 @@ This Excel-based Sales Executive Dashboard provides a comprehensive view of sale
 🔹 Filtering Options – Analyze data based on region, executive, and target achievement.   
 🔹 Performance Highlights – Identifies top-performing executives and areas needing improvement.  
 
-🛠 Tools & Techniques Used   
+🛠 Tools & Techniques Used         
 📊 Excel Features   
 ✔ Pivot Tables & Charts – Summarize and visualize sales data.   
 ✔ Data Cleaning & Formatting – Ensures accuracy and readability.  
 ✔ Conditional Formatting – Highlights important trends.  
 ✔ Formulas – Utilized for sales calculations:   
-
-    SUM, AVERAGE, Percentage (%) calculations  
-✔ Slicers – Enables interactive filtering for quick analysis.  
+    SUM, AVERAGE, Percentage (%) calculations       
+✔ Slicers – Enables interactive filtering for quick analysis.             
 
 🔎 How to Use  
 1️⃣ Open the Excel file in Microsoft Excel (Enable macros if required).  
